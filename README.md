@@ -1,8 +1,9 @@
-This is the source code folder of "jbead", a bead
+This is the source code folder of **jbead**, a bead
 crochet ropes design software by Damian Brunold. 
-See www.jbead.ch for more information.
 
 ![Screenshot](http://www.jbead.ch/images/jbead_screenshot_en.png)
+
+See www.jbead.ch for more information.
 
 Originally called DB-BEAD, this software was written
 in C++ using Borland C++Builder 5 and the VCL library.
